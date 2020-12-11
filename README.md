@@ -1,3 +1,3 @@
 # Demo
 
-Intro To Git
+Intro To Git and GitHub
